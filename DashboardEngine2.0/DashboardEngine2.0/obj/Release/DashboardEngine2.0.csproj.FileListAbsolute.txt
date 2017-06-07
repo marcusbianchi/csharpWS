@@ -1,0 +1,78 @@
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.exe.config
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.exe
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.pdb
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.dll
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.dll
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.dll
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.dll
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.dll
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.xml
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.xml
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.xml
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.xml
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.xml
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.exe
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll.config
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll.config
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.csprojResolveAssemblyReference.cache
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll.config
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.csprojResolveAssemblyReference.cache
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.pdb
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll.config
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\DashboardEngine2.0.pdb
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\AutoMapper.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\EntityFramework.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\log4net.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Newtonsoft.Json.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\bin\Release\Sigil.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.csprojResolveAssemblyReference.cache
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngine2.0\obj\Release\DashboardEngine2.0.pdb

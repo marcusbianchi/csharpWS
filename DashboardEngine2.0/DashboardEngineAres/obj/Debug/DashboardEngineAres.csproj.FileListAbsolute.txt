@@ -1,0 +1,78 @@
+C:\Users\marcuss.SPI\Documents\Visual Studio 2015\Projects\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.csprojResolveAssemblyReference.cache
+C:\Users\marcuss.SPI\Documents\Visual Studio 2015\Projects\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe
+C:\Users\marcuss.SPI\Documents\Visual Studio 2015\Projects\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.pdb
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.csprojResolveAssemblyReference.cache
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe
+C:\Users\marcuss.SPI\Desktop\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.csprojResolveAssemblyReference.cache
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.config
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.manifest
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.application
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe.manifest
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.application
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.config
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.manifest
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.application
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.csprojResolveAssemblyReference.cache
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe.manifest
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.application
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.config
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.manifest
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.application
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.csprojResolveAssemblyReference.cache
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe.manifest
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.application
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.pdb
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.config
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe.manifest
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.application
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.exe
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngineAres.pdb
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.dll
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\DashboardEngine2.0.pdb
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\log4net.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\Newtonsoft.Json.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\bin\Debug\AutoMapper.xml
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.csprojResolveAssemblyReference.cache
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe.manifest
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.application
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.exe
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineAres\obj\Debug\DashboardEngineAres.pdb

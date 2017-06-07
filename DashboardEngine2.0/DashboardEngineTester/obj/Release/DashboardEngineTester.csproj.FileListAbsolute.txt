@@ -1,0 +1,57 @@
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe.config
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngine2.0.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineAres.exe
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\log4net.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\AutoMapper.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\Newtonsoft.Json.dll
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngine2.0.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineAres.pdb
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\log4net.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\AutoMapper.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\Newtonsoft.Json.xml
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.csprojResolveAssemblyReference.cache
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.csproj.DashboardEngineTester.exe.config
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.exe
+C:\One Drive\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe.config
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.exe
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe.config
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngine2.0.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineAres.exe
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\log4net.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\Newtonsoft.Json.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\AutoMapper.dll
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngine2.0.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineAres.pdb
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\log4net.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\Newtonsoft.Json.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\bin\Release\AutoMapper.xml
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.csprojResolveAssemblyReference.cache
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.csproj.DashboardEngineTester.exe.config
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.exe
+C:\_OD\OneDrive - Spi Engenharia de Automacao Ltda Epp\Cache\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe.config
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.exe
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngine2.0.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineAres.exe
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\log4net.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\Newtonsoft.Json.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\AutoMapper.dll
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngine2.0.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineAres.pdb
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\log4net.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\Newtonsoft.Json.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\bin\Release\AutoMapper.xml
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.csprojResolveAssemblyReference.cache
+C:\Users\marcuss\Cloud Repository\Cthulhu\Backend\Commons\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.csproj.DashboardEngineTester.exe.config
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineTester\bin\Release\DashboardEngineTester.exe.config
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.exe
+C:\Workspaces\C#WS\DashboardEngine2.0\DashboardEngineTester\obj\Release\DashboardEngineTester.pdb
